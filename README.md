@@ -252,3 +252,6 @@ This repository serves as the official landing page for Java JDK. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Java JDK today!**
+
+---
+**Last updated:** 2026-09-12 05:28:32 UTC
