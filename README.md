@@ -254,4 +254,4 @@ This repository serves as the official landing page for Java JDK. The software i
 **Get the most recent version of Java JDK today!**
 
 ---
-**Last updated:** 2026-10-14 23:02:48 UTC
+**Last updated:** 2026-10-15 03:46:22 UTC
